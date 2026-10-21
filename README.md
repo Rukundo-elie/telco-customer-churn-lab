@@ -6,9 +6,12 @@ Exploratory data analysis of the Telco Customer Churn dataset
 ## Dataset
 `data/Telco-Customer-Churn.csv` — 7043 customers, 21 features.
 
-## Tasks
-- [ ] i. Introduction
+## Task Progress
+- [x] i. Introduction — notebook opens with the goal and scope of the analysis
 - [ ] ii. Load the dataset
 - [ ] iii. Display head & tail
 - [ ] iv. Data preprocessing
 - [ ] v. Data exploration
+
+## Notebook
+`notebooks/Lab1_Churn_Analysis.ipynb`
