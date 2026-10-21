@@ -14,7 +14,10 @@ Exploratory data analysis of the Telco Customer Churn dataset
   - Encoded `Churn` to binary (1/0).
   - Converted `TotalCharges` from object to float64.
   - Removed 11 rows with null values (new shape: 7032 rows).
-- [ ] v. Data exploration (In progress)
+- [ ] v. Data exploration
+  - [x] a. Demographic Analysis (Gender, Senior Citizen, Partner, Dependents)
+  - [ ] b. Service Analysis (Phone Service)
+  - [ ] c. Payments Analysis (Contract, Paperless Billing, Payment Method)
 
 ## Notebook
 `notebooks/Lab1_Churn_Analysis.ipynb`
